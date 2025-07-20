@@ -1,0 +1,20 @@
+{
+  "name": "6.-professional-backend",
+  "version": "1.0.0",
+  "description": "A backend project to understand it professionally.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Backend",
+    "Javascript"
+  ],
+  "author": "Krish Modi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
